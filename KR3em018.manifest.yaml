@@ -1,0 +1,357 @@
+canonical_identifier: bkk:krp/KR3em018/v1
+canonical_location: https://kanripo.org/bkk/KR3em018/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 重樓玉鑰續編
+  identifiers:
+    krp: KR3em018
+  tags:
+    kr-categories: KR3em
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3em018.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3em018_000.yaml, hash: 'sha256:44249cde62627ca0e9dcf03b803dee8e26df1afb572e2369f55ff7d4618ca0cc'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3em018_000.markers.yaml, hash: 'sha256:9aacbf3bd4027557351ed2adea4f493da20e7077ecec145bf9aee457829f1fc1'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3em018_jc_000-d6.h1s1
+    span:
+    - front
+    - 0
+    - 1049
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em018_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 490
+  label: 跋
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em018_jc_000-d3.h1s1
+    span:
+    - body
+    - 490
+    - 778
+  label: 白纏喉敘
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em018_jc_000-d4.h1s1
+    span:
+    - body
+    - 778
+    - 1652
+  label: 自敘
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em018_jc_000-d5.h1s1
+    span:
+    - body
+    - 1652
+    - 1827
+  label: 續重樓玉鑰自敘
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em018_jc_000-d7.h1s1
+    span:
+    - body
+    - 1827
+    - 2337
+  label: 統理十二經脈皆上循咽喉
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em018_jc_000-d8.h1s1
+    span:
+    - body
+    - 2337
+    - 2761
+  label: 總論喉痹大意
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em018_jc_000-d9.h1s1
+    span:
+    - body
+    - 2761
+    - 4604
+  label: 論喉痹關乎運氣而有火濕寒之異
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em018_jc_000-d10.h1s1
+    span:
+    - body
+    - 4604
+    - 5304
+  label: 統論脾胃皆交於口而脾為之主
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em018_jc_000-d11.h1s1
+    span:
+    - body
+    - 5304
+    - 5637
+  label: 統論唇為脾胃肝之所主
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em018_jc_000-d12.h1s1
+    span:
+    - body
+    - 5637
+    - 6005
+  label: 統論舌為心脾所主
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em018_jc_000-d13.h1s1
+    span:
+    - body
+    - 6005
+    - 6575
+  label: 論齒為腎胃大腸所屬
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em018_jc_000-d14.h1s1
+    span:
+    - body
+    - 6575
+    - 11020
+  label: 諸證補遺
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em018_jc_000-d15.h1s1
+    span:
+    - body
+    - 11020
+    - 13981
+  label: 附錄
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em018_jc_000-d15d30
+    span:
+    - body
+    - 11948
+    - 13981
+  label: 選方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em018_jc_000-d16.h1s1
+    span:
+    - body
+    - 13981
+    - 14318
+  label: 咽喉虛實總辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em018_jc_000-d17.h1s1
+    span:
+    - body
+    - 14318
+    - 17673
+  label: 各證分辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em018_jc_000-d18.h1s1
+    span:
+    - body
+    - 17673
+    - 18031
+  label: 附錄
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em018_jc_000-d19.h1s1
+    span:
+    - body
+    - 18031
+    - 18198
+  label: 喉部經絡
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em018_jc_000-d20.h1s1
+    span:
+    - body
+    - 18198
+    - 18393
+  label: 舌部經絡
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em018_jc_000-d21.h1s1
+    span:
+    - body
+    - 18393
+    - 18464
+  label: 齒牙經絡
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em018_jc_000-d22.h1s1
+    span:
+    - body
+    - 18464
+    - 18531
+  label: 口部經絡
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em018_jc_000-d23.h1s1
+    span:
+    - body
+    - 18531
+    - 18595
+  label: 唇部經絡
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em018_jc_000-d24.h1s1
+    span:
+    - body
+    - 18595
+    - 18815
+  label: 項頸部經略
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em018_jc_000-d25.h1s1
+    span:
+    - body
+    - 18815
+    - 20691
+  label: 喉症白腐例言
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em018_jc_000-d26.h1s1
+    span:
+    - body
+    - 20691
+    - 23342
+  label: 論白腐證
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em018_jc_000-d27.h1s1
+    span:
+    - body
+    - 23342
+    - 24831
+  label: 論治
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em018_jc_000-d28.h1s1
+    span:
+    - body
+    - 24831
+    - 25335
+  label: 方論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em018_jc_000-d29.h1s1
+    span:
+    - body
+    - 25335
+    - 26097
+  label: 內服方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em018_jc_000-d30.h1s1
+    span:
+    - body
+    - 26097
+    - 26329
+  label: 吹樂方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em018_jc_000-d31.h1s1
+    span:
+    - body
+    - 26329
+    - 29601
+  label: 藥性
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em018_jc_000-d32.h1s1
+    span:
+    - body
+    - 29601
+    - 31515
+  label: 宜用藥味列後
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em018_jc_000-d33.h1s1
+    span:
+    - body
+    - 31515
+    - 32613
+  label: 自制醫說
+  type: section
+  level: 1
+hash: sha256:07ad19fb39cd35c69c7e5525ee605685f16e6e990da0252c6af2ed44b23b8a9f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
