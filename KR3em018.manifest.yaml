@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3em018_000.yaml, hash: 'sha256:44249cde62627ca0e9dcf03b803dee8e26df1afb572e2369f55ff7d4618ca0cc'}
+  - {seq: 0, filename: KR3em018_000.yaml, hash: 'sha256:20a0a8caa2746815d3c255adcfc2589677b5cad9932b0697030d22f407e07a9d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3em018_000.markers.yaml, hash: 'sha256:9aacbf3bd4027557351ed2adea4f493da20e7077ecec145bf9aee457829f1fc1'}
+  - {seq: 0, role: markers, filename: assets/KR3em018_000.markers.yaml, hash: 'sha256:aeae62379b950f430972f304e2c109994e16ce7bfe13b6d0c03a4305d51e744a'}
 table_of_contents:
 - ref:
     seq: 0
@@ -351,7 +351,4 @@ table_of_contents:
   label: 自制醫說
   type: section
   level: 1
-hash: sha256:07ad19fb39cd35c69c7e5525ee605685f16e6e990da0252c6af2ed44b23b8a9f
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:5908c95e131191d519048b6868df1a080bd0cc29e7422f660d04cf9279f5843b
