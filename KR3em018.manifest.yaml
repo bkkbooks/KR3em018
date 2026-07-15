@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3em018/v1
 canonical_location: https://kanripo.org/bkk/KR3em018/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 重樓玉鑰續編
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3em018_000.yaml, hash: 'sha256:20a0a8caa2746815d3c255adcfc2589677b5cad9932b0697030d22f407e07a9d'}
+  - {seq: 0, filename: KR3em018_000.yaml, hash: 'sha256:c16cab02e1fd582424bee40745d54c37a6cecc04ad8dbad1fc52c5117209d465'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3em018_000.markers.yaml, hash: 'sha256:aeae62379b950f430972f304e2c109994e16ce7bfe13b6d0c03a4305d51e744a'}
+  - {seq: 0, role: markers, filename: assets/KR3em018_000.markers.yaml, hash: 'sha256:d13ff978b4513efc5038d65124c68bed0b069fca27ff2c05d2a88ca16d73e257'}
 table_of_contents:
 - ref:
     seq: 0
@@ -351,4 +351,7 @@ table_of_contents:
   label: 自制醫說
   type: section
   level: 1
-hash: sha256:5908c95e131191d519048b6868df1a080bd0cc29e7422f660d04cf9279f5843b
+hash: sha256:cc22551fc2e2016b9f6f3c2b76cf0660b12367fcb8de0f7a8009b3db6fab20a2
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
