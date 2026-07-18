@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3em018_000-jc.yaml, hash: 'sha256:20a0a8caa2746815d3c255adcfc2589677b5cad9932b0697030d22f407e07a9d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3em018_000-jc.markers.yaml, hash: 'sha256:5f598c726777a2879239642c056c490c8042715b6d8395c5368988cbd196409a'}
+  - {seq: 0, role: markers, filename: assets/KR3em018_000-jc.markers.yaml, hash: 'sha256:e012f1e99218a1fac424bbee8924ef35e928a99f1844a7d46ae910eb6ca0529a'}
 table_of_contents:
 - ref:
     seq: 0
@@ -351,4 +351,4 @@ table_of_contents:
   label: 自制醫說
   type: section
   level: 1
-hash: sha256:88e7d5142be9d3aa74bec04276b80b1e5b719f79f5b96517b4351b1efe335fda
+hash: sha256:9f7f1cc892c4a8dc4ad9631f741cebfe39db37ec2365372690ad8dd61c8dc7b9
